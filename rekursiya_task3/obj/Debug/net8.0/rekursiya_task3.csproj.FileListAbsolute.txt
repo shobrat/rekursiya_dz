@@ -1,0 +1,15 @@
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\bin\Debug\net8.0\rekursiya_task3.exe
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\bin\Debug\net8.0\rekursiya_task3.deps.json
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\bin\Debug\net8.0\rekursiya_task3.runtimeconfig.json
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\bin\Debug\net8.0\rekursiya_task3.dll
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\bin\Debug\net8.0\rekursiya_task3.pdb
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.AssemblyInfoInputs.cache
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.AssemblyInfo.cs
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.csproj.CoreCompileInputs.cache
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.sourcelink.json
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.dll
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\refint\rekursiya_task3.dll
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.pdb
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\rekursiya_task3.genruntimeconfig.cache
+C:\Users\sh.haqnazarov\Desktop\csharp_dz\rekursiya_task3\obj\Debug\net8.0\ref\rekursiya_task3.dll
