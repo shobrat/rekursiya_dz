@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("rekursiya_task3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b012dc628ffcdc0353678b23e5e062c1f5c8cfb0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("rekursiya_task3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("rekursiya_task3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
